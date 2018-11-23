@@ -6,5 +6,5 @@ CBNU Open Source Repo
 * 강산
 * 송정은
 
-## 수정해보자
-*GitAhead
+#commit push 필요
+*개발함
