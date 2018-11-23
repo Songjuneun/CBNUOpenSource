@@ -7,4 +7,4 @@ CBNU Open Source Repo
 * Songjungeun
 
 #commit push 필요
-*개발함aaaaaaaaaaaaaaaaaaa
+*개발함nnnnnnnnnnnnnnnn
